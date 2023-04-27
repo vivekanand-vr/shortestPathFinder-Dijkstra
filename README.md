@@ -1,4 +1,4 @@
-# shortestPathFinder-Dijkstra
+# Shortest Path Finder
 ![Screenshot (104)](https://user-images.githubusercontent.com/116813193/234829360-3287767f-6819-4f65-a508-a23f63a63a79.png)
 
 
