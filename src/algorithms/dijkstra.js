@@ -49,10 +49,7 @@ function getAllNodes(grid) {
     for (const node of row) {
       nodes.push(node);
     }
-  }
-
-
-  
+  } 
   return nodes;
 }
 
